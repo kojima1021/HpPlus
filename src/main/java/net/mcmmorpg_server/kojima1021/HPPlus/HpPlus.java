@@ -8,7 +8,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 
 /**
- * KillGetItem メインクラス
+ * HpPlus メインクラス
  * @author kojima1021
  */
 public class HpPlus extends JavaPlugin implements Listener{
